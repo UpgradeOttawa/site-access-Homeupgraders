@@ -166,7 +166,7 @@ document.querySelectorAll('.has-sub > a').forEach(function(a){a.setAttribute('ar
 
   function popupHtml(p){
     return '<div>' +
-      '<img src="' + p.image + '" alt="' + (p.caption || '') + '" loading="lazy">' +
+      '<img src="' + p.image + '" alt="' + (p.alt || p.caption || '') + '" loading="lazy">' +
       '<div class="cap">' + (p.caption || '') + (p.neighborhood ? ' &middot; ' + p.neighborhood : '') + '</div>' +
       '<span class="view-in-grid" data-photo-id="' + p.id + '">View in gallery below \u2193</span>' +
       '</div>';
@@ -210,7 +210,7 @@ document.querySelectorAll('.has-sub > a').forEach(function(a){a.setAttribute('ar
       var fig = document.createElement('figure');
       fig.id = 'photo-' + p.id;
       var img = document.createElement('img');
-      img.src = p.image; img.loading = 'lazy'; img.alt = p.caption || '';
+      img.src = p.image; img.loading = 'lazy'; img.alt = p.alt || p.caption || '';
       var cap = document.createElement('figcaption');
       cap.textContent = (p.caption || '') + (p.neighborhood ? ' \u00b7 ' + p.neighborhood : '');
       fig.appendChild(img); fig.appendChild(cap);

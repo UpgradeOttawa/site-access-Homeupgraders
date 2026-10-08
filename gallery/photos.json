@@ -9,15 +9,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48136,
-        "lng": -75.5254
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48136,
-    "map_lng": -75.5254
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-02",
@@ -29,15 +26,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44633,
-        "lng": -75.5344
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.44633,
-    "map_lng": -75.5344
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-03",
@@ -49,15 +43,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47618,
-        "lng": -75.52683
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47618,
-    "map_lng": -75.52683
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-04",
@@ -69,15 +60,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47675,
-        "lng": -75.53308
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47675,
-    "map_lng": -75.53308
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-05",
@@ -89,15 +77,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47349,
-        "lng": -75.54484
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47349,
-    "map_lng": -75.54484
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-06",
@@ -109,15 +94,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46646,
-        "lng": -75.57086
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46646,
-    "map_lng": -75.57086
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-07",
@@ -129,15 +111,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47542,
-        "lng": -75.54834
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47542,
-    "map_lng": -75.54834
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-08",
@@ -149,15 +128,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45343,
-        "lng": -75.58234
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45343,
-    "map_lng": -75.58234
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-09",
@@ -169,15 +145,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47629,
-        "lng": -75.5421
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47629,
-    "map_lng": -75.5421
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-10",
@@ -189,15 +162,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47705,
-        "lng": -75.53522
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47705,
-    "map_lng": -75.53522
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-11",
@@ -209,15 +179,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46945,
-        "lng": -75.51488
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46945,
-    "map_lng": -75.51488
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-12",
@@ -229,15 +196,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47038,
-        "lng": -75.55145
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47038,
-    "map_lng": -75.55145
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-13",
@@ -249,15 +213,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48341,
-        "lng": -75.53844
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48341,
-    "map_lng": -75.53844
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-14",
@@ -269,15 +230,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47924,
-        "lng": -75.52612
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47924,
-    "map_lng": -75.52612
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-15",
@@ -289,15 +247,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46129,
-        "lng": -75.52296
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46129,
-    "map_lng": -75.52296
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-16",
@@ -309,15 +264,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4559,
-        "lng": -75.57919
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4559,
-    "map_lng": -75.57919
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-17",
@@ -329,15 +281,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46482,
-        "lng": -75.52353
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46482,
-    "map_lng": -75.52353
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-18",
@@ -349,15 +298,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46576,
-        "lng": -75.5428
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46576,
-    "map_lng": -75.5428
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-19",
@@ -369,15 +315,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46168,
-        "lng": -75.54673
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46168,
-    "map_lng": -75.54673
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-20",
@@ -389,15 +332,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47254,
-        "lng": -75.55558
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47254,
-    "map_lng": -75.55558
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "basement-drywall-project-21",
@@ -409,15 +349,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47903,
-        "lng": -75.53166
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47903,
-    "map_lng": -75.53166
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Basement drywall project in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-01",
@@ -429,15 +366,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48018,
-        "lng": -75.5487
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48018,
-    "map_lng": -75.5487
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-02",
@@ -449,15 +383,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48076,
-        "lng": -75.53078
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48076,
-    "map_lng": -75.53078
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-03",
@@ -469,15 +400,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4632,
-        "lng": -75.55887
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4632,
-    "map_lng": -75.55887
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-04",
@@ -489,15 +417,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46989,
-        "lng": -75.5185
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46989,
-    "map_lng": -75.5185
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-05",
@@ -509,15 +434,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47247,
-        "lng": -75.55217
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47247,
-    "map_lng": -75.55217
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-06",
@@ -529,15 +451,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44868,
-        "lng": -75.53846
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.44868,
-    "map_lng": -75.53846
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-07",
@@ -549,15 +468,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44889,
-        "lng": -75.52655
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.44889,
-    "map_lng": -75.52655
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-08",
@@ -569,15 +485,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4858,
-        "lng": -75.54913
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4858,
-    "map_lng": -75.54913
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-09",
@@ -589,15 +502,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4748,
-        "lng": -75.55977
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4748,
-    "map_lng": -75.55977
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-10",
@@ -609,15 +519,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46909,
-        "lng": -75.55148
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46909,
-    "map_lng": -75.55148
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-11",
@@ -629,15 +536,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47714,
-        "lng": -75.56351
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47714,
-    "map_lng": -75.56351
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-12",
@@ -649,15 +553,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48454,
-        "lng": -75.53724
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48454,
-    "map_lng": -75.53724
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-13",
@@ -669,15 +570,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47015,
-        "lng": -75.5513
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47015,
-    "map_lng": -75.5513
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-14",
@@ -689,15 +587,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48016,
-        "lng": -75.54331
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48016,
-    "map_lng": -75.54331
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-15",
@@ -709,15 +604,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47824,
-        "lng": -75.55052
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47824,
-    "map_lng": -75.55052
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-16",
@@ -729,15 +621,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46465,
-        "lng": -75.52321
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46465,
-    "map_lng": -75.52321
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-17",
@@ -749,15 +638,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48738,
-        "lng": -75.54218
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48738,
-    "map_lng": -75.54218
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-18",
@@ -769,15 +655,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4579,
-        "lng": -75.57486
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4579,
-    "map_lng": -75.57486
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-19",
@@ -789,15 +672,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4682,
-        "lng": -75.55466
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4682,
-    "map_lng": -75.55466
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-20",
@@ -809,15 +689,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44868,
-        "lng": -75.53112
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.44868,
-    "map_lng": -75.53112
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-21",
@@ -829,15 +706,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47738,
-        "lng": -75.53344
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47738,
-    "map_lng": -75.53344
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "cabinets-and-framing-22",
@@ -849,15 +723,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46726,
-        "lng": -75.57104
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46726,
-    "map_lng": -75.57104
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom cabinets and framing in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "custom-drywall-01",
@@ -869,15 +740,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47519,
-        "lng": -75.48175
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.47519,
-    "map_lng": -75.48175
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-02",
@@ -889,15 +757,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4928,
-        "lng": -75.49338
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.4928,
-    "map_lng": -75.49338
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-03",
@@ -909,15 +774,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44373,
-        "lng": -75.49086
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.44373,
-    "map_lng": -75.49086
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-04",
@@ -929,15 +791,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48815,
-        "lng": -75.47718
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.48815,
-    "map_lng": -75.47718
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-05",
@@ -949,15 +808,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46854,
-        "lng": -75.46528
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.46854,
-    "map_lng": -75.46528
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-06",
@@ -969,15 +825,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45506,
-        "lng": -75.46261
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.45506,
-    "map_lng": -75.46261
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-07",
@@ -989,15 +842,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44481,
-        "lng": -75.48002
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.44481,
-    "map_lng": -75.48002
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-08",
@@ -1009,15 +859,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47758,
-        "lng": -75.48424
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.47758,
-    "map_lng": -75.48424
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "custom-drywall-09",
@@ -1029,15 +876,12 @@
       "fsa": "K4A",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48877,
-        "lng": -75.47202
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K4A",
-    "map_lat": 45.48877,
-    "map_lng": -75.47202
+    "map_lat": 45.471,
+    "map_lng": -75.479,
+    "alt": "Custom drywall project in Fallingbrook, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-01",
@@ -1049,15 +893,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46073,
-        "lng": -75.51658
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46073,
-    "map_lng": -75.51658
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-02",
@@ -1069,15 +910,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46114,
-        "lng": -75.52006
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46114,
-    "map_lng": -75.52006
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-03",
@@ -1089,15 +927,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46161,
-        "lng": -75.51777
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46161,
-    "map_lng": -75.51777
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-04",
@@ -1109,15 +944,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47817,
-        "lng": -75.52415
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47817,
-    "map_lng": -75.52415
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-05",
@@ -1129,15 +961,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46327,
-        "lng": -75.54055
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46327,
-    "map_lng": -75.54055
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-06",
@@ -1149,15 +978,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47356,
-        "lng": -75.5187
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47356,
-    "map_lng": -75.5187
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-07",
@@ -1169,15 +995,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46112,
-        "lng": -75.55069
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46112,
-    "map_lng": -75.55069
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-08",
@@ -1189,15 +1012,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48135,
-        "lng": -75.54434
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48135,
-    "map_lng": -75.54434
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-09",
@@ -1209,15 +1029,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47526,
-        "lng": -75.53618
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47526,
-    "map_lng": -75.53618
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-10",
@@ -1229,15 +1046,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45739,
-        "lng": -75.53176
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45739,
-    "map_lng": -75.53176
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-11",
@@ -1249,15 +1063,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48276,
-        "lng": -75.54559
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48276,
-    "map_lng": -75.54559
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-12",
@@ -1269,15 +1080,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45748,
-        "lng": -75.5109
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45748,
-    "map_lng": -75.5109
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-13",
@@ -1289,15 +1097,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48428,
-        "lng": -75.55248
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48428,
-    "map_lng": -75.55248
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-14",
@@ -1309,15 +1114,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45792,
-        "lng": -75.5733
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45792,
-    "map_lng": -75.5733
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-15",
@@ -1329,15 +1131,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46884,
-        "lng": -75.53828
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46884,
-    "map_lng": -75.53828
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-16",
@@ -1349,15 +1148,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47958,
-        "lng": -75.56434
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47958,
-    "map_lng": -75.56434
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "window-finishing-drywall-return-17",
@@ -1369,15 +1165,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4535,
-        "lng": -75.52176
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4535,
-    "map_lng": -75.52176
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom window finishing, drywall return in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-01",
@@ -1389,15 +1182,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47701,
-        "lng": -75.51756
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47701,
-    "map_lng": -75.51756
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-02",
@@ -1409,15 +1199,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48264,
-        "lng": -75.54529
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48264,
-    "map_lng": -75.54529
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-03",
@@ -1429,15 +1216,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46047,
-        "lng": -75.51927
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46047,
-    "map_lng": -75.51927
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-04",
@@ -1449,15 +1233,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4604,
-        "lng": -75.54126
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4604,
-    "map_lng": -75.54126
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-05",
@@ -1469,15 +1250,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48165,
-        "lng": -75.54989
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48165,
-    "map_lng": -75.54989
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-06",
@@ -1489,15 +1267,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4676,
-        "lng": -75.56622
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4676,
-    "map_lng": -75.56622
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-07",
@@ -1509,15 +1284,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45669,
-        "lng": -75.51454
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45669,
-    "map_lng": -75.51454
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-08",
@@ -1529,15 +1301,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47063,
-        "lng": -75.54296
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47063,
-    "map_lng": -75.54296
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-09",
@@ -1549,15 +1318,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47892,
-        "lng": -75.52068
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47892,
-    "map_lng": -75.52068
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-10",
@@ -1569,15 +1335,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45488,
-        "lng": -75.50754
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45488,
-    "map_lng": -75.50754
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-11",
@@ -1589,15 +1352,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47345,
-        "lng": -75.56214
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47345,
-    "map_lng": -75.56214
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-12",
@@ -1609,15 +1369,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47191,
-        "lng": -75.52194
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47191,
-    "map_lng": -75.52194
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-13",
@@ -1629,15 +1386,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47075,
-        "lng": -75.55984
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47075,
-    "map_lng": -75.55984
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-14",
@@ -1649,15 +1403,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45488,
-        "lng": -75.53233
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45488,
-    "map_lng": -75.53233
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-15",
@@ -1669,15 +1420,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47162,
-        "lng": -75.52845
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47162,
-    "map_lng": -75.52845
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "drywall-archways-16",
@@ -1689,15 +1437,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46178,
-        "lng": -75.5361
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46178,
-    "map_lng": -75.5361
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Custom drywall archway in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-01",
@@ -1709,15 +1454,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47916,
-        "lng": -75.54668
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47916,
-    "map_lng": -75.54668
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-02",
@@ -1729,15 +1471,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46161,
-        "lng": -75.55978
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46161,
-    "map_lng": -75.55978
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-03",
@@ -1749,15 +1488,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46428,
-        "lng": -75.56087
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46428,
-    "map_lng": -75.56087
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-04",
@@ -1769,15 +1505,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.44524,
-        "lng": -75.54034
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.44524,
-    "map_lng": -75.54034
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-05",
@@ -1789,15 +1522,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48098,
-        "lng": -75.53103
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48098,
-    "map_lng": -75.53103
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-06",
@@ -1809,15 +1539,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47497,
-        "lng": -75.55175
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47497,
-    "map_lng": -75.55175
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-07",
@@ -1829,15 +1556,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4593,
-        "lng": -75.56879
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4593,
-    "map_lng": -75.56879
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-08",
@@ -1849,15 +1573,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46116,
-        "lng": -75.51772
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46116,
-    "map_lng": -75.51772
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-09",
@@ -1869,15 +1590,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.49515,
-        "lng": -75.52814
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.49515,
-    "map_lng": -75.52814
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-10",
@@ -1889,15 +1607,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47912,
-        "lng": -75.52907
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47912,
-    "map_lng": -75.52907
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-11",
@@ -1909,15 +1624,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4799,
-        "lng": -75.51924
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4799,
-    "map_lng": -75.51924
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-12",
@@ -1929,15 +1641,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47408,
-        "lng": -75.54542
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47408,
-    "map_lng": -75.54542
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-13",
@@ -1949,15 +1658,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46495,
-        "lng": -75.5589
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46495,
-    "map_lng": -75.5589
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-14",
@@ -1969,15 +1675,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47352,
-        "lng": -75.56352
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47352,
-    "map_lng": -75.56352
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-15",
@@ -1989,15 +1692,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45454,
-        "lng": -75.52327
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45454,
-    "map_lng": -75.52327
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-16",
@@ -2009,15 +1709,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47394,
-        "lng": -75.56188
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47394,
-    "map_lng": -75.56188
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-17",
@@ -2029,15 +1726,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47876,
-        "lng": -75.54056
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47876,
-    "map_lng": -75.54056
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-18",
@@ -2049,15 +1743,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48292,
-        "lng": -75.53499
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48292,
-    "map_lng": -75.53499
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-19",
@@ -2069,15 +1760,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45978,
-        "lng": -75.5138
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45978,
-    "map_lng": -75.5138
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-20",
@@ -2089,15 +1777,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47293,
-        "lng": -75.53176
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47293,
-    "map_lng": -75.53176
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-21",
@@ -2109,15 +1794,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4686,
-        "lng": -75.55946
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4686,
-    "map_lng": -75.55946
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-22",
@@ -2129,15 +1811,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47339,
-        "lng": -75.5452
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47339,
-    "map_lng": -75.5452
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-23",
@@ -2149,15 +1828,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46069,
-        "lng": -75.50897
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46069,
-    "map_lng": -75.50897
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-24",
@@ -2169,15 +1845,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46322,
-        "lng": -75.5649
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46322,
-    "map_lng": -75.5649
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-25",
@@ -2189,15 +1862,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.49151,
-        "lng": -75.53344
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.49151,
-    "map_lng": -75.53344
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-26",
@@ -2209,15 +1879,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4738,
-        "lng": -75.519
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4738,
-    "map_lng": -75.519
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-27",
@@ -2229,15 +1896,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48554,
-        "lng": -75.52987
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48554,
-    "map_lng": -75.52987
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-28",
@@ -2249,15 +1913,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4922,
-        "lng": -75.5309
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4922,
-    "map_lng": -75.5309
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-29",
@@ -2269,15 +1930,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45902,
-        "lng": -75.57358
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45902,
-    "map_lng": -75.57358
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-30",
@@ -2289,15 +1947,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45096,
-        "lng": -75.54289
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45096,
-    "map_lng": -75.54289
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-31",
@@ -2309,15 +1964,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45307,
-        "lng": -75.5444
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.45307,
-    "map_lng": -75.5444
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-32",
@@ -2329,15 +1981,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46651,
-        "lng": -75.54852
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46651,
-    "map_lng": -75.54852
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-33",
@@ -2349,15 +1998,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48255,
-        "lng": -75.54975
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48255,
-    "map_lng": -75.54975
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-34",
@@ -2369,15 +2015,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4617,
-        "lng": -75.50974
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4617,
-    "map_lng": -75.50974
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-35",
@@ -2389,15 +2032,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47906,
-        "lng": -75.56352
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47906,
-    "map_lng": -75.56352
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-36",
@@ -2409,15 +2049,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4728,
-        "lng": -75.53434
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4728,
-    "map_lng": -75.53434
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-37",
@@ -2429,15 +2066,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46986,
-        "lng": -75.56406
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46986,
-    "map_lng": -75.56406
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-38",
@@ -2449,15 +2083,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48632,
-        "lng": -75.52267
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.48632,
-    "map_lng": -75.52267
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-39",
@@ -2469,15 +2100,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4501,
-        "lng": -75.52751
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.4501,
-    "map_lng": -75.52751
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-40",
@@ -2489,15 +2117,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47791,
-        "lng": -75.52061
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.47791,
-    "map_lng": -75.52061
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-41",
@@ -2509,15 +2134,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46089,
-        "lng": -75.54593
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46089,
-    "map_lng": -75.54593
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-42",
@@ -2529,15 +2151,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46891,
-        "lng": -75.55103
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46891,
-    "map_lng": -75.55103
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "hardwood-flooring-ottawa-43",
@@ -2549,15 +2168,12 @@
       "fsa": "K1C",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.46351,
-        "lng": -75.5623
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1C",
-    "map_lat": 45.46351,
-    "map_lng": -75.5623
+    "map_lat": 45.47,
+    "map_lng": -75.541,
+    "alt": "Hardwood flooring installation in Convent Glen - Orleans Woods, Ottawa"
   },
   {
     "id": "pembroke-city-hall-renovation-01",
@@ -2567,11 +2183,12 @@
     "caption": "Pembroke City Hall renovation",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Pembroke City Hall renovation in Pembroke, Ontario"
   },
   {
     "id": "pembroke-city-hall-renovation-02",
@@ -2581,11 +2198,12 @@
     "caption": "Pembroke City Hall renovation",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Pembroke City Hall renovation in Pembroke, Ontario"
   },
   {
     "id": "tiles-01",
@@ -2595,11 +2213,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-02",
@@ -2609,11 +2228,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-03",
@@ -2623,11 +2243,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-04",
@@ -2637,11 +2258,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-05",
@@ -2651,11 +2273,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-06",
@@ -2665,11 +2288,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-07",
@@ -2679,11 +2303,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-08",
@@ -2693,11 +2318,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-09",
@@ -2707,11 +2333,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-10",
@@ -2721,11 +2348,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-11",
@@ -2735,11 +2363,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-12",
@@ -2749,11 +2378,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-13",
@@ -2763,11 +2393,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-14",
@@ -2777,11 +2408,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-15",
@@ -2791,11 +2423,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-16",
@@ -2805,11 +2438,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-17",
@@ -2819,11 +2453,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-18",
@@ -2833,11 +2468,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-19",
@@ -2847,11 +2483,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-20",
@@ -2861,11 +2498,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-21",
@@ -2875,11 +2513,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-22",
@@ -2889,11 +2528,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-23",
@@ -2903,11 +2543,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-24",
@@ -2917,11 +2558,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-25",
@@ -2931,11 +2573,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-26",
@@ -2945,11 +2588,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-27",
@@ -2959,11 +2603,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-28",
@@ -2973,11 +2618,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-29",
@@ -2987,11 +2633,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-30",
@@ -3001,11 +2648,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-31",
@@ -3015,11 +2663,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-32",
@@ -3029,11 +2678,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-33",
@@ -3043,11 +2693,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-34",
@@ -3057,11 +2708,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-35",
@@ -3071,11 +2723,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-36",
@@ -3085,11 +2738,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-37",
@@ -3099,11 +2753,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-38",
@@ -3113,11 +2768,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-39",
@@ -3127,11 +2783,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-40",
@@ -3141,11 +2798,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-41",
@@ -3155,11 +2813,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-42",
@@ -3169,11 +2828,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-43",
@@ -3183,11 +2843,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-44",
@@ -3197,11 +2858,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-45",
@@ -3211,11 +2873,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-46",
@@ -3225,11 +2888,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-47",
@@ -3239,11 +2903,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-48",
@@ -3253,11 +2918,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-49",
@@ -3267,11 +2933,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-50",
@@ -3281,11 +2948,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-51",
@@ -3295,11 +2963,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-52",
@@ -3309,11 +2978,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-53",
@@ -3323,11 +2993,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-54",
@@ -3337,11 +3008,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-55",
@@ -3351,11 +3023,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-56",
@@ -3365,11 +3038,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-57",
@@ -3379,11 +3053,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-58",
@@ -3393,11 +3068,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-59",
@@ -3407,11 +3083,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-60",
@@ -3421,11 +3098,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-61",
@@ -3435,11 +3113,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-62",
@@ -3449,11 +3128,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-63",
@@ -3463,11 +3143,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-64",
@@ -3477,11 +3158,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-65",
@@ -3491,11 +3173,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-66",
@@ -3505,11 +3188,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-67",
@@ -3519,11 +3203,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-68",
@@ -3533,11 +3218,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-69",
@@ -3547,11 +3233,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Chapel Hill South, Ottawa"
   },
   {
     "id": "tiles-70",
@@ -3561,11 +3248,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-71",
@@ -3575,11 +3263,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-72",
@@ -3589,11 +3278,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-73",
@@ -3603,11 +3293,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-74",
@@ -3617,11 +3308,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-75",
@@ -3631,11 +3323,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-76",
@@ -3645,11 +3338,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-77",
@@ -3659,11 +3353,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-78",
@@ -3673,11 +3368,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-79",
@@ -3687,11 +3383,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-80",
@@ -3701,11 +3398,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-81",
@@ -3715,11 +3413,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-82",
@@ -3731,15 +3430,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.49381,
-        "lng": -75.49353
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.49381,
-    "map_lng": -75.49353
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-83",
@@ -3751,15 +3447,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47097,
-        "lng": -75.49618
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.47097,
-    "map_lng": -75.49618
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-84",
@@ -3771,15 +3464,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4622,
-        "lng": -75.49217
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.4622,
-    "map_lng": -75.49217
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-85",
@@ -3791,15 +3481,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47784,
-        "lng": -75.50615
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.47784,
-    "map_lng": -75.50615
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-86",
@@ -3811,15 +3498,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47047,
-        "lng": -75.49901
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.47047,
-    "map_lng": -75.49901
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-87",
@@ -3831,15 +3515,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.49683,
-        "lng": -75.49175
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.49683,
-    "map_lng": -75.49175
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-88",
@@ -3851,15 +3532,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.48027,
-        "lng": -75.51387
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.48027,
-    "map_lng": -75.51387
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-89",
@@ -3871,15 +3549,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.49693,
-        "lng": -75.49391
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.49693,
-    "map_lng": -75.49391
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-90",
@@ -3891,15 +3566,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.45742,
-        "lng": -75.5005
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.45742,
-    "map_lng": -75.5005
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-91",
@@ -3909,11 +3581,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-92",
@@ -3923,11 +3596,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-93",
@@ -3939,15 +3613,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.47406,
-        "lng": -75.50745
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.47406,
-    "map_lng": -75.50745
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-94",
@@ -3959,15 +3630,12 @@
       "fsa": "K1E",
       "location_precision": "fsa",
       "source": "geolocation_to_fsa",
-      "precise_coordinates_retained": false,
-      "display_point": {
-        "lat": 45.4714,
-        "lng": -75.51244
-      }
+      "precise_coordinates_retained": false
     },
     "fsa": "K1E",
-    "map_lat": 45.4714,
-    "map_lng": -75.51244
+    "map_lat": 45.477,
+    "map_lng": -75.501,
+    "alt": "Custom tile work in Queenswood - Chatelaine, Ottawa"
   },
   {
     "id": "tiles-95",
@@ -3977,11 +3645,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-96",
@@ -3991,11 +3660,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-97",
@@ -4005,11 +3675,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-98",
@@ -4019,11 +3690,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-99",
@@ -4033,11 +3705,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-100",
@@ -4047,11 +3720,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-101",
@@ -4061,11 +3735,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-102",
@@ -4075,11 +3750,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-103",
@@ -4089,11 +3765,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-104",
@@ -4103,11 +3780,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-105",
@@ -4117,11 +3795,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-106",
@@ -4131,11 +3810,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-107",
@@ -4145,11 +3825,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-108",
@@ -4159,11 +3840,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Westboro, Ottawa"
   },
   {
     "id": "tiles-109",
@@ -4173,11 +3855,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Centretown, Ottawa"
   },
   {
     "id": "tiles-110",
@@ -4187,11 +3870,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-111",
@@ -4201,11 +3885,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Glebe, Ottawa"
   },
   {
     "id": "tiles-112",
@@ -4215,11 +3900,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Centretown, Ottawa"
   },
   {
     "id": "tiles-113",
@@ -4229,11 +3915,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Westboro, Ottawa"
   },
   {
     "id": "tiles-114",
@@ -4243,11 +3930,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Chapel Hill North, Ottawa"
   },
   {
     "id": "tiles-115",
@@ -4257,11 +3945,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Barrhaven, Ottawa"
   },
   {
     "id": "tiles-116",
@@ -4271,11 +3960,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Chapel Hill North, Ottawa"
   },
   {
     "id": "tiles-117",
@@ -4285,11 +3975,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-118",
@@ -4299,11 +3990,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-119",
@@ -4313,11 +4005,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-120",
@@ -4327,11 +4020,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-121",
@@ -4341,11 +4035,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-122",
@@ -4355,11 +4050,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-123",
@@ -4369,11 +4065,12 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   },
   {
     "id": "tiles-124",
@@ -4383,10 +4080,11 @@
     "caption": "Custom tile work",
     "location": {
       "fsa": null,
-      "location_precision": "unknown",
+      "location_precision": "none",
       "source": "unresolved",
       "precise_coordinates_retained": false
     },
-    "fsa": null
+    "fsa": null,
+    "alt": "Custom tile work in Old Ottawa South, Ottawa"
   }
 ]
