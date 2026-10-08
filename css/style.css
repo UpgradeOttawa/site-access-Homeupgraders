@@ -294,7 +294,7 @@ footer a:hover{color:var(--brass-light);}
 .faq-item summary{cursor:pointer;padding:.9rem 0;font-family:'Oswald',sans-serif;letter-spacing:.03em;color:var(--brass-light);list-style:none}
 .faq-item summary::-webkit-details-marker{display:none}
 .faq-item summary::before{content:'+ ';color:var(--brass)}
-.faq-item[open] summary::before{content:'2 '}
+.faq-item[open] summary::before{content:'\2212 '}
 .faq-a{padding:0 0 1rem}
 .faq-a p{color:rgba(237,227,207,.88);max-width:74ch}
 html,body{overflow-x:hidden;}
