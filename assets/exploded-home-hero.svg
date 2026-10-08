@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Exploded renovation view of a two-storey Ottawa home</title>
+  <desc id="desc">A cutaway exploded-view house illustration showing roof, upper floor, main floor and basement renovation zones.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#243645"/><stop offset="1" stop-color="#111a22"/></linearGradient>
+    <linearGradient id="roof" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#927045"/><stop offset="1" stop-color="#65492d"/></linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5efe3"/><stop offset="1" stop-color="#d9d0c0"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c49a68"/><stop offset="1" stop-color="#8c6745"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity=".28"/></filter>
+  </defs>
+  <rect width="900" height="700" rx="34" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#f4efe5" stroke-width="1"><path d="M60 105H840M60 205H840M60 305H840M60 405H840M60 505H840M60 605H840"/><path d="M120 55V645M270 55V645M420 55V645M570 55V645M720 55V645"/></g>
+  <ellipse cx="455" cy="622" rx="310" ry="42" fill="#000" opacity=".18"/>
+
+  <!-- roof -->
+  <g filter="url(#shadow)" transform="translate(0,-22)">
+    <polygon points="235,180 455,72 675,180 455,286" fill="url(#roof)" stroke="#c79a5b" stroke-width="4"/>
+    <polygon points="455,72 675,180 645,196 455,108" fill="#765534" opacity=".92"/>
+    <polygon points="235,180 455,72 455,108 265,198" fill="#a37b48"/>
+    <rect x="585" y="124" width="38" height="70" rx="4" fill="#383737" transform="rotate(25 604 159)"/>
+  </g>
+
+  <!-- upper floor -->
+  <g filter="url(#shadow)" transform="translate(0,32)">
+    <polygon points="255,236 455,142 655,236 455,330" fill="url(#floor)" stroke="#d8ae73" stroke-width="3"/>
+    <polygon points="255,236 455,330 455,408 255,314" fill="url(#wall)" stroke="#d7cfc0" stroke-width="3"/>
+    <polygon points="455,330 655,236 655,314 455,408" fill="#e5dccd" stroke="#d7cfc0" stroke-width="3"/>
+    <polygon points="455,142 655,236 455,330 255,236" fill="#c7aa82" opacity=".35"/>
+    <path d="M455 154V324M357 190V282M552 188V282" stroke="#76654f" stroke-width="4" opacity=".6"/>
+    <path d="M265 244L455 334L646 244" stroke="#fff" stroke-width="3" opacity=".7"/>
+    <rect x="300" y="276" width="52" height="37" fill="#9ed4e9" stroke="#fff" stroke-width="5" transform="skewY(25)"/>
+    <rect x="558" y="273" width="52" height="38" fill="#9ed4e9" stroke="#fff" stroke-width="5" transform="skewY(-25)"/>
+  </g>
+
+  <!-- main floor -->
+  <g filter="url(#shadow)" transform="translate(0,126)">
+    <polygon points="220,285 455,175 690,285 455,397" fill="url(#floor)" stroke="#d8ae73" stroke-width="3"/>
+    <polygon points="220,285 455,397 455,488 220,376" fill="url(#wall)" stroke="#d7cfc0" stroke-width="3"/>
+    <polygon points="455,397 690,285 690,376 455,488" fill="#e4dbca" stroke="#d7cfc0" stroke-width="3"/>
+    <path d="M455 184V388M338 231V340M575 232V340" stroke="#6f604d" stroke-width="4" opacity=".55"/>
+    <path d="M230 294L455 402L680 294" stroke="#fff" stroke-width="3" opacity=".65"/>
+    <rect x="278" y="333" width="70" height="46" fill="#9ed4e9" stroke="#fff" stroke-width="5" transform="skewY(25)"/>
+    <rect x="559" y="331" width="70" height="47" fill="#9ed4e9" stroke="#fff" stroke-width="5" transform="skewY(-25)"/>
+    <rect x="405" y="374" width="46" height="74" fill="#6f563d" transform="skewY(25)"/>
+    <g opacity=".95"><rect x="487" y="295" width="94" height="22" rx="4" fill="#eae5da"/><rect x="497" y="318" width="76" height="18" rx="3" fill="#b7bdc2"/></g>
+  </g>
+
+  <!-- basement -->
+  <g filter="url(#shadow)" transform="translate(0,304)">
+    <polygon points="245,300 455,202 665,300 455,400" fill="#6f716c" stroke="#9b9b90" stroke-width="3"/>
+    <polygon points="245,300 455,400 455,468 245,368" fill="#b7b4a7" stroke="#cac5b6" stroke-width="3"/>
+    <polygon points="455,400 665,300 665,368 455,468" fill="#a9a69a" stroke="#cac5b6" stroke-width="3"/>
+    <path d="M455 211V393M350 252V350M560 252V350" stroke="#54564f" stroke-width="4" opacity=".7"/>
+    <rect x="300" y="343" width="66" height="29" fill="#88bfd2" stroke="#eee" stroke-width="4" transform="skewY(25)"/>
+    <rect x="552" y="340" width="66" height="29" fill="#88bfd2" stroke="#eee" stroke-width="4" transform="skewY(-25)"/>
+  </g>
+
+  <!-- separation guides -->
+  <g stroke="#d9ae70" stroke-width="2" stroke-dasharray="7 8" opacity=".75"><path d="M173 198L173 268"/><path d="M728 198L728 268"/><path d="M163 420L163 500"/><path d="M738 420L738 500"/></g>
+  <g fill="#f4efe5" font-family="Arial, sans-serif" font-weight="700" font-size="17" opacity=".8"><text x="64" y="103">HOMEUPGRADERS.CA</text><text x="676" y="650">OTTAWA · ORLEANS</text></g>
+</svg>

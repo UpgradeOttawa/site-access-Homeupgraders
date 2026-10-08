@@ -1,0 +1,4392 @@
+[
+  {
+    "id": "basement-drywall-project-01",
+    "image": "photos/basement-drywall-project/basement-drywall-project-01.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48136,
+        "lng": -75.5254
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48136,
+    "map_lng": -75.5254
+  },
+  {
+    "id": "basement-drywall-project-02",
+    "image": "photos/basement-drywall-project/basement-drywall-project-02.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44633,
+        "lng": -75.5344
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.44633,
+    "map_lng": -75.5344
+  },
+  {
+    "id": "basement-drywall-project-03",
+    "image": "photos/basement-drywall-project/basement-drywall-project-03.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47618,
+        "lng": -75.52683
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47618,
+    "map_lng": -75.52683
+  },
+  {
+    "id": "basement-drywall-project-04",
+    "image": "photos/basement-drywall-project/basement-drywall-project-04.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47675,
+        "lng": -75.53308
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47675,
+    "map_lng": -75.53308
+  },
+  {
+    "id": "basement-drywall-project-05",
+    "image": "photos/basement-drywall-project/basement-drywall-project-05.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47349,
+        "lng": -75.54484
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47349,
+    "map_lng": -75.54484
+  },
+  {
+    "id": "basement-drywall-project-06",
+    "image": "photos/basement-drywall-project/basement-drywall-project-06.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46646,
+        "lng": -75.57086
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46646,
+    "map_lng": -75.57086
+  },
+  {
+    "id": "basement-drywall-project-07",
+    "image": "photos/basement-drywall-project/basement-drywall-project-07.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47542,
+        "lng": -75.54834
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47542,
+    "map_lng": -75.54834
+  },
+  {
+    "id": "basement-drywall-project-08",
+    "image": "photos/basement-drywall-project/basement-drywall-project-08.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45343,
+        "lng": -75.58234
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45343,
+    "map_lng": -75.58234
+  },
+  {
+    "id": "basement-drywall-project-09",
+    "image": "photos/basement-drywall-project/basement-drywall-project-09.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47629,
+        "lng": -75.5421
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47629,
+    "map_lng": -75.5421
+  },
+  {
+    "id": "basement-drywall-project-10",
+    "image": "photos/basement-drywall-project/basement-drywall-project-10.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47705,
+        "lng": -75.53522
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47705,
+    "map_lng": -75.53522
+  },
+  {
+    "id": "basement-drywall-project-11",
+    "image": "photos/basement-drywall-project/basement-drywall-project-11.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46945,
+        "lng": -75.51488
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46945,
+    "map_lng": -75.51488
+  },
+  {
+    "id": "basement-drywall-project-12",
+    "image": "photos/basement-drywall-project/basement-drywall-project-12.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47038,
+        "lng": -75.55145
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47038,
+    "map_lng": -75.55145
+  },
+  {
+    "id": "basement-drywall-project-13",
+    "image": "photos/basement-drywall-project/basement-drywall-project-13.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48341,
+        "lng": -75.53844
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48341,
+    "map_lng": -75.53844
+  },
+  {
+    "id": "basement-drywall-project-14",
+    "image": "photos/basement-drywall-project/basement-drywall-project-14.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47924,
+        "lng": -75.52612
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47924,
+    "map_lng": -75.52612
+  },
+  {
+    "id": "basement-drywall-project-15",
+    "image": "photos/basement-drywall-project/basement-drywall-project-15.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46129,
+        "lng": -75.52296
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46129,
+    "map_lng": -75.52296
+  },
+  {
+    "id": "basement-drywall-project-16",
+    "image": "photos/basement-drywall-project/basement-drywall-project-16.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4559,
+        "lng": -75.57919
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4559,
+    "map_lng": -75.57919
+  },
+  {
+    "id": "basement-drywall-project-17",
+    "image": "photos/basement-drywall-project/basement-drywall-project-17.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46482,
+        "lng": -75.52353
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46482,
+    "map_lng": -75.52353
+  },
+  {
+    "id": "basement-drywall-project-18",
+    "image": "photos/basement-drywall-project/basement-drywall-project-18.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46576,
+        "lng": -75.5428
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46576,
+    "map_lng": -75.5428
+  },
+  {
+    "id": "basement-drywall-project-19",
+    "image": "photos/basement-drywall-project/basement-drywall-project-19.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46168,
+        "lng": -75.54673
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46168,
+    "map_lng": -75.54673
+  },
+  {
+    "id": "basement-drywall-project-20",
+    "image": "photos/basement-drywall-project/basement-drywall-project-20.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47254,
+        "lng": -75.55558
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47254,
+    "map_lng": -75.55558
+  },
+  {
+    "id": "basement-drywall-project-21",
+    "image": "photos/basement-drywall-project/basement-drywall-project-21.jpg",
+    "category": "basement",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Basement drywall project",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47903,
+        "lng": -75.53166
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47903,
+    "map_lng": -75.53166
+  },
+  {
+    "id": "cabinets-and-framing-01",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-01.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48018,
+        "lng": -75.5487
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48018,
+    "map_lng": -75.5487
+  },
+  {
+    "id": "cabinets-and-framing-02",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-02.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48076,
+        "lng": -75.53078
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48076,
+    "map_lng": -75.53078
+  },
+  {
+    "id": "cabinets-and-framing-03",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-03.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4632,
+        "lng": -75.55887
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4632,
+    "map_lng": -75.55887
+  },
+  {
+    "id": "cabinets-and-framing-04",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-04.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46989,
+        "lng": -75.5185
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46989,
+    "map_lng": -75.5185
+  },
+  {
+    "id": "cabinets-and-framing-05",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-05.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47247,
+        "lng": -75.55217
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47247,
+    "map_lng": -75.55217
+  },
+  {
+    "id": "cabinets-and-framing-06",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-06.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44868,
+        "lng": -75.53846
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.44868,
+    "map_lng": -75.53846
+  },
+  {
+    "id": "cabinets-and-framing-07",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-07.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44889,
+        "lng": -75.52655
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.44889,
+    "map_lng": -75.52655
+  },
+  {
+    "id": "cabinets-and-framing-08",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-08.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4858,
+        "lng": -75.54913
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4858,
+    "map_lng": -75.54913
+  },
+  {
+    "id": "cabinets-and-framing-09",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-09.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4748,
+        "lng": -75.55977
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4748,
+    "map_lng": -75.55977
+  },
+  {
+    "id": "cabinets-and-framing-10",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-10.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46909,
+        "lng": -75.55148
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46909,
+    "map_lng": -75.55148
+  },
+  {
+    "id": "cabinets-and-framing-11",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-11.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47714,
+        "lng": -75.56351
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47714,
+    "map_lng": -75.56351
+  },
+  {
+    "id": "cabinets-and-framing-12",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-12.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48454,
+        "lng": -75.53724
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48454,
+    "map_lng": -75.53724
+  },
+  {
+    "id": "cabinets-and-framing-13",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-13.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47015,
+        "lng": -75.5513
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47015,
+    "map_lng": -75.5513
+  },
+  {
+    "id": "cabinets-and-framing-14",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-14.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48016,
+        "lng": -75.54331
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48016,
+    "map_lng": -75.54331
+  },
+  {
+    "id": "cabinets-and-framing-15",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-15.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47824,
+        "lng": -75.55052
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47824,
+    "map_lng": -75.55052
+  },
+  {
+    "id": "cabinets-and-framing-16",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-16.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46465,
+        "lng": -75.52321
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46465,
+    "map_lng": -75.52321
+  },
+  {
+    "id": "cabinets-and-framing-17",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-17.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48738,
+        "lng": -75.54218
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48738,
+    "map_lng": -75.54218
+  },
+  {
+    "id": "cabinets-and-framing-18",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-18.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4579,
+        "lng": -75.57486
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4579,
+    "map_lng": -75.57486
+  },
+  {
+    "id": "cabinets-and-framing-19",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-19.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4682,
+        "lng": -75.55466
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4682,
+    "map_lng": -75.55466
+  },
+  {
+    "id": "cabinets-and-framing-20",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-20.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44868,
+        "lng": -75.53112
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.44868,
+    "map_lng": -75.53112
+  },
+  {
+    "id": "cabinets-and-framing-21",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-21.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47738,
+        "lng": -75.53344
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47738,
+    "map_lng": -75.53344
+  },
+  {
+    "id": "cabinets-and-framing-22",
+    "image": "photos/cabinets-and-framing/cabinets-and-framing-22.jpg",
+    "category": "carpentry",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom cabinets and framing",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46726,
+        "lng": -75.57104
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46726,
+    "map_lng": -75.57104
+  },
+  {
+    "id": "custom-drywall-01",
+    "image": "photos/custom-drywall/custom-drywall-01.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47519,
+        "lng": -75.48175
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.47519,
+    "map_lng": -75.48175
+  },
+  {
+    "id": "custom-drywall-02",
+    "image": "photos/custom-drywall/custom-drywall-02.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4928,
+        "lng": -75.49338
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.4928,
+    "map_lng": -75.49338
+  },
+  {
+    "id": "custom-drywall-03",
+    "image": "photos/custom-drywall/custom-drywall-03.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44373,
+        "lng": -75.49086
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.44373,
+    "map_lng": -75.49086
+  },
+  {
+    "id": "custom-drywall-04",
+    "image": "photos/custom-drywall/custom-drywall-04.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48815,
+        "lng": -75.47718
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.48815,
+    "map_lng": -75.47718
+  },
+  {
+    "id": "custom-drywall-05",
+    "image": "photos/custom-drywall/custom-drywall-05.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46854,
+        "lng": -75.46528
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.46854,
+    "map_lng": -75.46528
+  },
+  {
+    "id": "custom-drywall-06",
+    "image": "photos/custom-drywall/custom-drywall-06.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45506,
+        "lng": -75.46261
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.45506,
+    "map_lng": -75.46261
+  },
+  {
+    "id": "custom-drywall-07",
+    "image": "photos/custom-drywall/custom-drywall-07.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44481,
+        "lng": -75.48002
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.44481,
+    "map_lng": -75.48002
+  },
+  {
+    "id": "custom-drywall-08",
+    "image": "photos/custom-drywall/custom-drywall-08.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47758,
+        "lng": -75.48424
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.47758,
+    "map_lng": -75.48424
+  },
+  {
+    "id": "custom-drywall-09",
+    "image": "photos/custom-drywall/custom-drywall-09.jpg",
+    "category": "drywall",
+    "neighborhood": "Fallingbrook",
+    "caption": "Custom drywall project",
+    "location": {
+      "fsa": "K4A",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48877,
+        "lng": -75.47202
+      }
+    },
+    "fsa": "K4A",
+    "map_lat": 45.48877,
+    "map_lng": -75.47202
+  },
+  {
+    "id": "window-finishing-drywall-return-01",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-01.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46073,
+        "lng": -75.51658
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46073,
+    "map_lng": -75.51658
+  },
+  {
+    "id": "window-finishing-drywall-return-02",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-02.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46114,
+        "lng": -75.52006
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46114,
+    "map_lng": -75.52006
+  },
+  {
+    "id": "window-finishing-drywall-return-03",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-03.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46161,
+        "lng": -75.51777
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46161,
+    "map_lng": -75.51777
+  },
+  {
+    "id": "window-finishing-drywall-return-04",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-04.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47817,
+        "lng": -75.52415
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47817,
+    "map_lng": -75.52415
+  },
+  {
+    "id": "window-finishing-drywall-return-05",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-05.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46327,
+        "lng": -75.54055
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46327,
+    "map_lng": -75.54055
+  },
+  {
+    "id": "window-finishing-drywall-return-06",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-06.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47356,
+        "lng": -75.5187
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47356,
+    "map_lng": -75.5187
+  },
+  {
+    "id": "window-finishing-drywall-return-07",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-07.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46112,
+        "lng": -75.55069
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46112,
+    "map_lng": -75.55069
+  },
+  {
+    "id": "window-finishing-drywall-return-08",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-08.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48135,
+        "lng": -75.54434
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48135,
+    "map_lng": -75.54434
+  },
+  {
+    "id": "window-finishing-drywall-return-09",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-09.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47526,
+        "lng": -75.53618
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47526,
+    "map_lng": -75.53618
+  },
+  {
+    "id": "window-finishing-drywall-return-10",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-10.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45739,
+        "lng": -75.53176
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45739,
+    "map_lng": -75.53176
+  },
+  {
+    "id": "window-finishing-drywall-return-11",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-11.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48276,
+        "lng": -75.54559
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48276,
+    "map_lng": -75.54559
+  },
+  {
+    "id": "window-finishing-drywall-return-12",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-12.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45748,
+        "lng": -75.5109
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45748,
+    "map_lng": -75.5109
+  },
+  {
+    "id": "window-finishing-drywall-return-13",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-13.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48428,
+        "lng": -75.55248
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48428,
+    "map_lng": -75.55248
+  },
+  {
+    "id": "window-finishing-drywall-return-14",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-14.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45792,
+        "lng": -75.5733
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45792,
+    "map_lng": -75.5733
+  },
+  {
+    "id": "window-finishing-drywall-return-15",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-15.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46884,
+        "lng": -75.53828
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46884,
+    "map_lng": -75.53828
+  },
+  {
+    "id": "window-finishing-drywall-return-16",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-16.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47958,
+        "lng": -75.56434
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47958,
+    "map_lng": -75.56434
+  },
+  {
+    "id": "window-finishing-drywall-return-17",
+    "image": "photos/window-finishing-drywall-return/window-finishing-drywall-return-17.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom window finishing, drywall return",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4535,
+        "lng": -75.52176
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4535,
+    "map_lng": -75.52176
+  },
+  {
+    "id": "drywall-archways-01",
+    "image": "photos/drywall-archways/drywall-archways-01.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47701,
+        "lng": -75.51756
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47701,
+    "map_lng": -75.51756
+  },
+  {
+    "id": "drywall-archways-02",
+    "image": "photos/drywall-archways/drywall-archways-02.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48264,
+        "lng": -75.54529
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48264,
+    "map_lng": -75.54529
+  },
+  {
+    "id": "drywall-archways-03",
+    "image": "photos/drywall-archways/drywall-archways-03.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46047,
+        "lng": -75.51927
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46047,
+    "map_lng": -75.51927
+  },
+  {
+    "id": "drywall-archways-04",
+    "image": "photos/drywall-archways/drywall-archways-04.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4604,
+        "lng": -75.54126
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4604,
+    "map_lng": -75.54126
+  },
+  {
+    "id": "drywall-archways-05",
+    "image": "photos/drywall-archways/drywall-archways-05.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48165,
+        "lng": -75.54989
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48165,
+    "map_lng": -75.54989
+  },
+  {
+    "id": "drywall-archways-06",
+    "image": "photos/drywall-archways/drywall-archways-06.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4676,
+        "lng": -75.56622
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4676,
+    "map_lng": -75.56622
+  },
+  {
+    "id": "drywall-archways-07",
+    "image": "photos/drywall-archways/drywall-archways-07.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45669,
+        "lng": -75.51454
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45669,
+    "map_lng": -75.51454
+  },
+  {
+    "id": "drywall-archways-08",
+    "image": "photos/drywall-archways/drywall-archways-08.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47063,
+        "lng": -75.54296
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47063,
+    "map_lng": -75.54296
+  },
+  {
+    "id": "drywall-archways-09",
+    "image": "photos/drywall-archways/drywall-archways-09.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47892,
+        "lng": -75.52068
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47892,
+    "map_lng": -75.52068
+  },
+  {
+    "id": "drywall-archways-10",
+    "image": "photos/drywall-archways/drywall-archways-10.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45488,
+        "lng": -75.50754
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45488,
+    "map_lng": -75.50754
+  },
+  {
+    "id": "drywall-archways-11",
+    "image": "photos/drywall-archways/drywall-archways-11.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47345,
+        "lng": -75.56214
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47345,
+    "map_lng": -75.56214
+  },
+  {
+    "id": "drywall-archways-12",
+    "image": "photos/drywall-archways/drywall-archways-12.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47191,
+        "lng": -75.52194
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47191,
+    "map_lng": -75.52194
+  },
+  {
+    "id": "drywall-archways-13",
+    "image": "photos/drywall-archways/drywall-archways-13.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47075,
+        "lng": -75.55984
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47075,
+    "map_lng": -75.55984
+  },
+  {
+    "id": "drywall-archways-14",
+    "image": "photos/drywall-archways/drywall-archways-14.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45488,
+        "lng": -75.53233
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45488,
+    "map_lng": -75.53233
+  },
+  {
+    "id": "drywall-archways-15",
+    "image": "photos/drywall-archways/drywall-archways-15.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47162,
+        "lng": -75.52845
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47162,
+    "map_lng": -75.52845
+  },
+  {
+    "id": "drywall-archways-16",
+    "image": "photos/drywall-archways/drywall-archways-16.jpg",
+    "category": "drywall",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Custom drywall archway",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46178,
+        "lng": -75.5361
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46178,
+    "map_lng": -75.5361
+  },
+  {
+    "id": "hardwood-flooring-ottawa-01",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-01.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47916,
+        "lng": -75.54668
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47916,
+    "map_lng": -75.54668
+  },
+  {
+    "id": "hardwood-flooring-ottawa-02",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-02.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46161,
+        "lng": -75.55978
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46161,
+    "map_lng": -75.55978
+  },
+  {
+    "id": "hardwood-flooring-ottawa-03",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-03.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46428,
+        "lng": -75.56087
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46428,
+    "map_lng": -75.56087
+  },
+  {
+    "id": "hardwood-flooring-ottawa-04",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-04.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.44524,
+        "lng": -75.54034
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.44524,
+    "map_lng": -75.54034
+  },
+  {
+    "id": "hardwood-flooring-ottawa-05",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-05.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48098,
+        "lng": -75.53103
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48098,
+    "map_lng": -75.53103
+  },
+  {
+    "id": "hardwood-flooring-ottawa-06",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-06.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47497,
+        "lng": -75.55175
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47497,
+    "map_lng": -75.55175
+  },
+  {
+    "id": "hardwood-flooring-ottawa-07",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-07.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4593,
+        "lng": -75.56879
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4593,
+    "map_lng": -75.56879
+  },
+  {
+    "id": "hardwood-flooring-ottawa-08",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-08.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46116,
+        "lng": -75.51772
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46116,
+    "map_lng": -75.51772
+  },
+  {
+    "id": "hardwood-flooring-ottawa-09",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-09.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.49515,
+        "lng": -75.52814
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.49515,
+    "map_lng": -75.52814
+  },
+  {
+    "id": "hardwood-flooring-ottawa-10",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-10.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47912,
+        "lng": -75.52907
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47912,
+    "map_lng": -75.52907
+  },
+  {
+    "id": "hardwood-flooring-ottawa-11",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-11.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4799,
+        "lng": -75.51924
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4799,
+    "map_lng": -75.51924
+  },
+  {
+    "id": "hardwood-flooring-ottawa-12",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-12.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47408,
+        "lng": -75.54542
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47408,
+    "map_lng": -75.54542
+  },
+  {
+    "id": "hardwood-flooring-ottawa-13",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-13.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46495,
+        "lng": -75.5589
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46495,
+    "map_lng": -75.5589
+  },
+  {
+    "id": "hardwood-flooring-ottawa-14",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-14.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47352,
+        "lng": -75.56352
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47352,
+    "map_lng": -75.56352
+  },
+  {
+    "id": "hardwood-flooring-ottawa-15",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-15.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45454,
+        "lng": -75.52327
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45454,
+    "map_lng": -75.52327
+  },
+  {
+    "id": "hardwood-flooring-ottawa-16",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-16.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47394,
+        "lng": -75.56188
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47394,
+    "map_lng": -75.56188
+  },
+  {
+    "id": "hardwood-flooring-ottawa-17",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-17.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47876,
+        "lng": -75.54056
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47876,
+    "map_lng": -75.54056
+  },
+  {
+    "id": "hardwood-flooring-ottawa-18",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-18.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48292,
+        "lng": -75.53499
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48292,
+    "map_lng": -75.53499
+  },
+  {
+    "id": "hardwood-flooring-ottawa-19",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-19.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45978,
+        "lng": -75.5138
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45978,
+    "map_lng": -75.5138
+  },
+  {
+    "id": "hardwood-flooring-ottawa-20",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-20.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47293,
+        "lng": -75.53176
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47293,
+    "map_lng": -75.53176
+  },
+  {
+    "id": "hardwood-flooring-ottawa-21",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-21.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4686,
+        "lng": -75.55946
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4686,
+    "map_lng": -75.55946
+  },
+  {
+    "id": "hardwood-flooring-ottawa-22",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-22.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47339,
+        "lng": -75.5452
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47339,
+    "map_lng": -75.5452
+  },
+  {
+    "id": "hardwood-flooring-ottawa-23",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-23.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46069,
+        "lng": -75.50897
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46069,
+    "map_lng": -75.50897
+  },
+  {
+    "id": "hardwood-flooring-ottawa-24",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-24.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46322,
+        "lng": -75.5649
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46322,
+    "map_lng": -75.5649
+  },
+  {
+    "id": "hardwood-flooring-ottawa-25",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-25.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.49151,
+        "lng": -75.53344
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.49151,
+    "map_lng": -75.53344
+  },
+  {
+    "id": "hardwood-flooring-ottawa-26",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-26.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4738,
+        "lng": -75.519
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4738,
+    "map_lng": -75.519
+  },
+  {
+    "id": "hardwood-flooring-ottawa-27",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-27.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48554,
+        "lng": -75.52987
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48554,
+    "map_lng": -75.52987
+  },
+  {
+    "id": "hardwood-flooring-ottawa-28",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-28.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4922,
+        "lng": -75.5309
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4922,
+    "map_lng": -75.5309
+  },
+  {
+    "id": "hardwood-flooring-ottawa-29",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-29.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45902,
+        "lng": -75.57358
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45902,
+    "map_lng": -75.57358
+  },
+  {
+    "id": "hardwood-flooring-ottawa-30",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-30.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45096,
+        "lng": -75.54289
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45096,
+    "map_lng": -75.54289
+  },
+  {
+    "id": "hardwood-flooring-ottawa-31",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-31.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45307,
+        "lng": -75.5444
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.45307,
+    "map_lng": -75.5444
+  },
+  {
+    "id": "hardwood-flooring-ottawa-32",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-32.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46651,
+        "lng": -75.54852
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46651,
+    "map_lng": -75.54852
+  },
+  {
+    "id": "hardwood-flooring-ottawa-33",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-33.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48255,
+        "lng": -75.54975
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48255,
+    "map_lng": -75.54975
+  },
+  {
+    "id": "hardwood-flooring-ottawa-34",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-34.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4617,
+        "lng": -75.50974
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4617,
+    "map_lng": -75.50974
+  },
+  {
+    "id": "hardwood-flooring-ottawa-35",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-35.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47906,
+        "lng": -75.56352
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47906,
+    "map_lng": -75.56352
+  },
+  {
+    "id": "hardwood-flooring-ottawa-36",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-36.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4728,
+        "lng": -75.53434
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4728,
+    "map_lng": -75.53434
+  },
+  {
+    "id": "hardwood-flooring-ottawa-37",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-37.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46986,
+        "lng": -75.56406
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46986,
+    "map_lng": -75.56406
+  },
+  {
+    "id": "hardwood-flooring-ottawa-38",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-38.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48632,
+        "lng": -75.52267
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.48632,
+    "map_lng": -75.52267
+  },
+  {
+    "id": "hardwood-flooring-ottawa-39",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-39.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4501,
+        "lng": -75.52751
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.4501,
+    "map_lng": -75.52751
+  },
+  {
+    "id": "hardwood-flooring-ottawa-40",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-40.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47791,
+        "lng": -75.52061
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.47791,
+    "map_lng": -75.52061
+  },
+  {
+    "id": "hardwood-flooring-ottawa-41",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-41.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46089,
+        "lng": -75.54593
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46089,
+    "map_lng": -75.54593
+  },
+  {
+    "id": "hardwood-flooring-ottawa-42",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-42.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46891,
+        "lng": -75.55103
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46891,
+    "map_lng": -75.55103
+  },
+  {
+    "id": "hardwood-flooring-ottawa-43",
+    "image": "photos/hardwood-flooring-ottawa/hardwood-flooring-ottawa-43.jpg",
+    "category": "flooring",
+    "neighborhood": "Convent Glen - Orleans Woods",
+    "caption": "Hardwood flooring installation",
+    "location": {
+      "fsa": "K1C",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.46351,
+        "lng": -75.5623
+      }
+    },
+    "fsa": "K1C",
+    "map_lat": 45.46351,
+    "map_lng": -75.5623
+  },
+  {
+    "id": "pembroke-city-hall-renovation-01",
+    "image": "photos/pembroke-city-hall-renovation/pembroke-city-hall-renovation-01.jpg",
+    "category": "commercial",
+    "neighborhood": "Pembroke",
+    "caption": "Pembroke City Hall renovation",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "pembroke-city-hall-renovation-02",
+    "image": "photos/pembroke-city-hall-renovation/pembroke-city-hall-renovation-02.jpg",
+    "category": "commercial",
+    "neighborhood": "Pembroke",
+    "caption": "Pembroke City Hall renovation",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-01",
+    "image": "photos/tiles/tiles-01.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-02",
+    "image": "photos/tiles/tiles-02.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-03",
+    "image": "photos/tiles/tiles-03.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-04",
+    "image": "photos/tiles/tiles-04.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-05",
+    "image": "photos/tiles/tiles-05.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-06",
+    "image": "photos/tiles/tiles-06.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-07",
+    "image": "photos/tiles/tiles-07.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-08",
+    "image": "photos/tiles/tiles-08.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-09",
+    "image": "photos/tiles/tiles-09.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-10",
+    "image": "photos/tiles/tiles-10.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-11",
+    "image": "photos/tiles/tiles-11.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-12",
+    "image": "photos/tiles/tiles-12.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-13",
+    "image": "photos/tiles/tiles-13.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-14",
+    "image": "photos/tiles/tiles-14.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-15",
+    "image": "photos/tiles/tiles-15.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-16",
+    "image": "photos/tiles/tiles-16.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-17",
+    "image": "photos/tiles/tiles-17.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-18",
+    "image": "photos/tiles/tiles-18.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-19",
+    "image": "photos/tiles/tiles-19.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-20",
+    "image": "photos/tiles/tiles-20.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-21",
+    "image": "photos/tiles/tiles-21.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-22",
+    "image": "photos/tiles/tiles-22.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-23",
+    "image": "photos/tiles/tiles-23.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-24",
+    "image": "photos/tiles/tiles-24.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-25",
+    "image": "photos/tiles/tiles-25.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-26",
+    "image": "photos/tiles/tiles-26.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-27",
+    "image": "photos/tiles/tiles-27.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-28",
+    "image": "photos/tiles/tiles-28.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-29",
+    "image": "photos/tiles/tiles-29.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-30",
+    "image": "photos/tiles/tiles-30.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-31",
+    "image": "photos/tiles/tiles-31.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-32",
+    "image": "photos/tiles/tiles-32.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-33",
+    "image": "photos/tiles/tiles-33.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-34",
+    "image": "photos/tiles/tiles-34.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-35",
+    "image": "photos/tiles/tiles-35.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-36",
+    "image": "photos/tiles/tiles-36.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-37",
+    "image": "photos/tiles/tiles-37.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-38",
+    "image": "photos/tiles/tiles-38.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-39",
+    "image": "photos/tiles/tiles-39.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-40",
+    "image": "photos/tiles/tiles-40.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-41",
+    "image": "photos/tiles/tiles-41.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-42",
+    "image": "photos/tiles/tiles-42.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-43",
+    "image": "photos/tiles/tiles-43.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-44",
+    "image": "photos/tiles/tiles-44.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-45",
+    "image": "photos/tiles/tiles-45.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-46",
+    "image": "photos/tiles/tiles-46.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-47",
+    "image": "photos/tiles/tiles-47.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-48",
+    "image": "photos/tiles/tiles-48.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-49",
+    "image": "photos/tiles/tiles-49.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-50",
+    "image": "photos/tiles/tiles-50.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-51",
+    "image": "photos/tiles/tiles-51.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-52",
+    "image": "photos/tiles/tiles-52.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-53",
+    "image": "photos/tiles/tiles-53.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-54",
+    "image": "photos/tiles/tiles-54.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-55",
+    "image": "photos/tiles/tiles-55.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-56",
+    "image": "photos/tiles/tiles-56.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-57",
+    "image": "photos/tiles/tiles-57.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-58",
+    "image": "photos/tiles/tiles-58.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-59",
+    "image": "photos/tiles/tiles-59.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-60",
+    "image": "photos/tiles/tiles-60.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-61",
+    "image": "photos/tiles/tiles-61.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-62",
+    "image": "photos/tiles/tiles-62.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-63",
+    "image": "photos/tiles/tiles-63.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-64",
+    "image": "photos/tiles/tiles-64.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-65",
+    "image": "photos/tiles/tiles-65.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-66",
+    "image": "photos/tiles/tiles-66.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-67",
+    "image": "photos/tiles/tiles-67.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-68",
+    "image": "photos/tiles/tiles-68.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-69",
+    "image": "photos/tiles/tiles-69.jpg",
+    "category": "tile",
+    "neighborhood": "Chapel Hill South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-70",
+    "image": "photos/tiles/tiles-70.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-71",
+    "image": "photos/tiles/tiles-71.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-72",
+    "image": "photos/tiles/tiles-72.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-73",
+    "image": "photos/tiles/tiles-73.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-74",
+    "image": "photos/tiles/tiles-74.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-75",
+    "image": "photos/tiles/tiles-75.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-76",
+    "image": "photos/tiles/tiles-76.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-77",
+    "image": "photos/tiles/tiles-77.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-78",
+    "image": "photos/tiles/tiles-78.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-79",
+    "image": "photos/tiles/tiles-79.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-80",
+    "image": "photos/tiles/tiles-80.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-81",
+    "image": "photos/tiles/tiles-81.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-82",
+    "image": "photos/tiles/tiles-82.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.49381,
+        "lng": -75.49353
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.49381,
+    "map_lng": -75.49353
+  },
+  {
+    "id": "tiles-83",
+    "image": "photos/tiles/tiles-83.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47097,
+        "lng": -75.49618
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.47097,
+    "map_lng": -75.49618
+  },
+  {
+    "id": "tiles-84",
+    "image": "photos/tiles/tiles-84.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4622,
+        "lng": -75.49217
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.4622,
+    "map_lng": -75.49217
+  },
+  {
+    "id": "tiles-85",
+    "image": "photos/tiles/tiles-85.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47784,
+        "lng": -75.50615
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.47784,
+    "map_lng": -75.50615
+  },
+  {
+    "id": "tiles-86",
+    "image": "photos/tiles/tiles-86.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47047,
+        "lng": -75.49901
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.47047,
+    "map_lng": -75.49901
+  },
+  {
+    "id": "tiles-87",
+    "image": "photos/tiles/tiles-87.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.49683,
+        "lng": -75.49175
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.49683,
+    "map_lng": -75.49175
+  },
+  {
+    "id": "tiles-88",
+    "image": "photos/tiles/tiles-88.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.48027,
+        "lng": -75.51387
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.48027,
+    "map_lng": -75.51387
+  },
+  {
+    "id": "tiles-89",
+    "image": "photos/tiles/tiles-89.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.49693,
+        "lng": -75.49391
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.49693,
+    "map_lng": -75.49391
+  },
+  {
+    "id": "tiles-90",
+    "image": "photos/tiles/tiles-90.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.45742,
+        "lng": -75.5005
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.45742,
+    "map_lng": -75.5005
+  },
+  {
+    "id": "tiles-91",
+    "image": "photos/tiles/tiles-91.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-92",
+    "image": "photos/tiles/tiles-92.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-93",
+    "image": "photos/tiles/tiles-93.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.47406,
+        "lng": -75.50745
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.47406,
+    "map_lng": -75.50745
+  },
+  {
+    "id": "tiles-94",
+    "image": "photos/tiles/tiles-94.jpg",
+    "category": "tile",
+    "neighborhood": "Queenswood - Chatelaine",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": "K1E",
+      "location_precision": "fsa",
+      "source": "geolocation_to_fsa",
+      "precise_coordinates_retained": false,
+      "display_point": {
+        "lat": 45.4714,
+        "lng": -75.51244
+      }
+    },
+    "fsa": "K1E",
+    "map_lat": 45.4714,
+    "map_lng": -75.51244
+  },
+  {
+    "id": "tiles-95",
+    "image": "photos/tiles/tiles-95.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-96",
+    "image": "photos/tiles/tiles-96.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-97",
+    "image": "photos/tiles/tiles-97.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-98",
+    "image": "photos/tiles/tiles-98.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-99",
+    "image": "photos/tiles/tiles-99.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-100",
+    "image": "photos/tiles/tiles-100.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-101",
+    "image": "photos/tiles/tiles-101.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-102",
+    "image": "photos/tiles/tiles-102.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-103",
+    "image": "photos/tiles/tiles-103.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-104",
+    "image": "photos/tiles/tiles-104.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-105",
+    "image": "photos/tiles/tiles-105.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-106",
+    "image": "photos/tiles/tiles-106.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-107",
+    "image": "photos/tiles/tiles-107.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-108",
+    "image": "photos/tiles/tiles-108.jpg",
+    "category": "tile",
+    "neighborhood": "Westboro",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-109",
+    "image": "photos/tiles/tiles-109.jpg",
+    "category": "tile",
+    "neighborhood": "Centretown",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-110",
+    "image": "photos/tiles/tiles-110.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-111",
+    "image": "photos/tiles/tiles-111.jpg",
+    "category": "tile",
+    "neighborhood": "Glebe",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-112",
+    "image": "photos/tiles/tiles-112.jpg",
+    "category": "tile",
+    "neighborhood": "Centretown",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-113",
+    "image": "photos/tiles/tiles-113.jpg",
+    "category": "tile",
+    "neighborhood": "Westboro",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-114",
+    "image": "photos/tiles/tiles-114.jpg",
+    "category": "tile",
+    "neighborhood": "Chapel Hill North",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-115",
+    "image": "photos/tiles/tiles-115.jpg",
+    "category": "tile",
+    "neighborhood": "Barrhaven",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-116",
+    "image": "photos/tiles/tiles-116.jpg",
+    "category": "tile",
+    "neighborhood": "Chapel Hill North",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-117",
+    "image": "photos/tiles/tiles-117.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-118",
+    "image": "photos/tiles/tiles-118.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-119",
+    "image": "photos/tiles/tiles-119.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-120",
+    "image": "photos/tiles/tiles-120.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-121",
+    "image": "photos/tiles/tiles-121.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-122",
+    "image": "photos/tiles/tiles-122.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-123",
+    "image": "photos/tiles/tiles-123.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  },
+  {
+    "id": "tiles-124",
+    "image": "photos/tiles/tiles-124.jpg",
+    "category": "tile",
+    "neighborhood": "Old Ottawa South",
+    "caption": "Custom tile work",
+    "location": {
+      "fsa": null,
+      "location_precision": "unknown",
+      "source": "unresolved",
+      "precise_coordinates_retained": false
+    },
+    "fsa": null
+  }
+]

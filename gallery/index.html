@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery - Home Upgraders</title>
+<meta name="description" content="Browse real Home Upgraders renovation work by Ottawa and Orleans neighborhood, including bathrooms, basements, drywall and flooring projects.">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="google-site-verification" content="CqXIf4GRfXaO4U4MWxS48CnteE54JVRD8767hBB_zP4">
+<link rel="canonical" href="https://homeupgraders.ca/gallery/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Home Upgraders - Upgrade and Home Renovations in Ottawa">
+<meta property="og:title" content="Gallery - Home Upgraders">
+<meta property="og:description" content="Browse real Home Upgraders renovation work by Ottawa and Orleans neighborhood, including bathrooms, basements, drywall and flooring projects.">
+<meta property="og:url" content="https://homeupgraders.ca/gallery/">
+<meta property="og:image" content="https://homeupgraders.ca/wp-content/uploads/2024/04/6fa76d_c923e1aae32440c286590a9dd44685demv2.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Gallery - Home Upgraders">
+<meta name="twitter:description" content="Browse real Home Upgraders renovation work by Ottawa and Orleans neighborhood, including bathrooms, basements, drywall and flooring projects.">
+<meta name="twitter:image" content="https://homeupgraders.ca/wp-content/uploads/2024/04/6fa76d_c923e1aae32440c286590a9dd44685demv2.webp">
+<link rel="icon" href="/wp-content/uploads/2024/04/6fa76d_0b66bc8cac17d1f08783d3109ebb5110.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
+<style>
+#gallery-map{width:100%;height:520px;border:1px solid var(--line);border-radius:var(--radius);}
+.gallery-filters{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0;align-items:center;justify-content:space-between;}
+.gallery-filter-group{display:flex;flex-wrap:wrap;gap:.5rem;}
+.gallery-filters button{font-family:'Oswald',sans-serif;font-size:.8rem;letter-spacing:.03em;text-transform:uppercase;padding:.45rem .9rem;border:1px solid var(--line);border-radius:var(--radius);background:var(--paper-soft);color:var(--ink);cursor:pointer;}
+.gallery-filters button.active{background:var(--denim);color:var(--paper-soft);border-color:var(--denim);}
+.gallery-grid-heading{font-family:'Oswald',sans-serif;font-size:1.1rem;text-transform:uppercase;letter-spacing:.03em;margin:1.5rem 0 .75rem;}
+.gallery-grid-view figure{cursor:pointer;transition:box-shadow .15s ease;}
+.gallery-grid-view figure:hover{box-shadow:0 0 0 2px var(--denim);}
+.gallery-grid-view figure.highlighted{box-shadow:0 0 0 3px var(--brass);}
+.leaflet-popup-content .view-in-grid{display:inline-block;margin-top:.4rem;font-family:'Oswald',sans-serif;font-size:.72rem;text-transform:uppercase;letter-spacing:.02em;color:var(--denim);cursor:pointer;text-decoration:underline;}
+.leaflet-popup-content{font-family:'Source Serif 4',serif;text-align:center;}
+.leaflet-popup-content img{width:200px;max-width:100%;border-radius:2px;display:block;margin-bottom:.4rem;}
+.leaflet-popup-content .cap{font-family:'Oswald',sans-serif;font-size:.78rem;text-transform:uppercase;letter-spacing:.03em;color:var(--ink-soft);}
+.gallery-grid-view{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:.9rem;}
+.gallery-grid-view figure{margin:0;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:var(--paper-soft);}
+.gallery-grid-view img{width:100%;height:170px;object-fit:cover;display:block;}
+.gallery-grid-view figcaption{padding:.5rem .6rem;font-family:'Oswald',sans-serif;font-size:.75rem;text-transform:uppercase;letter-spacing:.02em;color:var(--ink-soft);}
+.gallery-count{font-family:'Oswald',sans-serif;font-size:.8rem;color:var(--ink-soft);margin:.5rem 0;}
+.layout-library-callout{background:var(--ink);color:var(--paper-soft);padding:1.5rem 0;}
+.llc-inner{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;}
+.llc-inner h2{margin:0 0 .3rem;font-size:1.15rem;}
+.llc-inner p{margin:0;max-width:44ch;color:var(--paper);}
+.llc-inner .btn{white-space:nowrap;}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/" aria-label="Home Upgraders home">
+      <img class="brand-logo" src="/wp-content/uploads/2024/04/6fa76d_0b66bc8cac17d1f08783d3109ebb5110.webp" alt="Home Upgraders" width="120" height="43">
+      <span class="brand-text"><strong>Home Upgraders</strong><span>Orleans &amp; Ottawa &middot; Third generation</span></span>
+    </a>
+    <nav class="primary-nav" id="primary-nav" aria-label="Primary">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about-us/">About Us</a></li>
+        <li class="has-sub"><a href="/services/">Services</a><ul class="sub"><li><a href="/services/bathroom-renovations-ottawa/">Bathroom Renovations Ottawa</a></li><li><a href="/services/basement-renovations-ottawa/">Basement Renovations Ottawa</a></li><li><a href="/services/carpentry-ottawa/">Carpentry Ottawa</a></li><li><a href="/services/drywall-contractor-ottawa/">Drywall Contractor Ottawa</a></li><li><a href="/services/flooring-ottawa/">Flooring Ottawa</a></li><li><a href="/services/kitchen-renovations-ottawa/">Kitchen Renovations Ottawa</a></li><li><a href="/services/orleans-contractor/">Orleans Contractor</a></li><li><a href="/services/ottawa-house-painters/">Ottawa House Painters</a></li></ul></li>
+        <li><a href="/services/orleans-contractor/">Orleans Contractor</a></li>
+        <li><a href="/gallery/" aria-current="page">Gallery</a></li>
+        <li class="has-sub"><a href="https://apps.homeupgraders.ca/" rel="noopener">Tools</a><ul class="sub"><li><a href="https://apps.homeupgraders.ca/apps/ottawa-reno-map/" rel="noopener">Renovation Map</a></li><li><a href="https://apps.homeupgraders.ca/apps/cabinet-ottawa/" rel="noopener">Cabinet Designer</a></li><li><a href="https://apps.homeupgraders.ca/apps/scanners/" rel="noopener">Room Scanner</a></li><li><a href="https://apps.homeupgraders.ca/apps/layout-library/rooms/" rel="noopener">Layout Library</a></li><li><a href="https://apps.homeupgraders.ca/apps/homeage/" rel="noopener">HomeAge</a></li><li><a href="https://apps.homeupgraders.ca/apps/scheduler/" rel="noopener">Scheduler</a></li><li><a href="https://apps.homeupgraders.ca/apps/trim-ottawa/tools/trim-scan.html" rel="noopener">Trim Scan</a></li></ul></li>
+        <li><a href="/contact-us/">Contact Us</a></li>
+      </ul>
+    </nav>
+    <div class="header-actions"><a class="phone" href="tel:+16133147926">613-314-7926</a>
+      
+      <a class="nav-cta" href="/contact-us/"><span class="cta-full">Get a Free Quote</span><span class="cta-short">Free Quote</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open menu">Menu</button>
+    </div>
+  </div>
+</header>
+<div class="ruler on-dark tight" aria-hidden="true"></div>
+<main id="main">
+<section class="hero page-hero"><div class="wrap"><p class="breadcrumb on-dark"><a href="/">Home</a> / Gallery</p><h1>Gallery</h1><p class="lede">Real Home Upgraders renovation work across Ottawa and Orleans. Tap a pin to see the project, or filter by type below.</p></div></section>
+<div class="ruler" aria-hidden="true"></div>
+<section class="layout-library-callout"><div class="wrap"><div class="llc-inner"><div><h2>Planning your own space?</h2><p>Once you've seen work like yours, try the Layout Library to sketch or trace your own basement and compare room layouts before you call us.</p></div><a class="btn btn-primary" href="https://jarvis-layout-library-preview.trebell.chatgpt.site/layout-library/orleans-basement-layout-planner" rel="noopener">Plan Your Basement &rarr;</a></div></div></section>
+<div class="ruler" aria-hidden="true"></div>
+<section><div class="wrap">
+  <div class="gallery-filters">
+    <div class="gallery-filter-group" id="gallery-filters"><button data-filter="all" class="active">All</button></div>
+  </div>
+  <p class="gallery-count" id="gallery-count"></p>
+  <div id="gallery-map"></div>
+  <h2 class="gallery-grid-heading">All Photos</h2>
+  <div id="gallery-grid" class="gallery-grid-view"></div>
+  <p class="gallery-note">Pin locations are generated inside the three-character FSA; exact project coordinates are not published. Ask to see projects similar to yours when you request a quote.</p>
+</div></section>
+<section class="cta-band"><div class="wrap cta-band-inner"><div><h2>Speak to a Local Ottawa Contractor Today</h2><p>Get in touch now to receive your free, no-obligation quote from a trusted local Ottawa contractor.</p></div><a class="btn btn-primary" href="/contact-us/">Request A Quotation</a></div></section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="grid">
+      <div>
+        <h4>Home Upgraders</h4>
+        <p>Third-generation renovation contractor based in Orleans, serving Orleans and East Ottawa. Basements, bathrooms, kitchens, carpentry, drywall, painting and flooring.</p>
+        <p><a href="tel:+16133147926">613-314-7926</a><br>91 Branthaven St, Orléans, ON K4A 0G5</p>
+      </div>
+      <div>
+        <h4>Services</h4>
+        <ul><li><a href="/services/bathroom-renovations-ottawa/">Bathroom Renovations Ottawa</a></li><li><a href="/services/basement-renovations-ottawa/">Basement Renovations Ottawa</a></li><li><a href="/services/carpentry-ottawa/">Carpentry Ottawa</a></li><li><a href="/services/drywall-contractor-ottawa/">Drywall Contractor Ottawa</a></li><li><a href="/services/flooring-ottawa/">Flooring Ottawa</a></li><li><a href="/services/kitchen-renovations-ottawa/">Kitchen Renovations Ottawa</a></li><li><a href="/services/orleans-contractor/">Orleans Contractor</a></li><li><a href="/services/ottawa-house-painters/">Ottawa House Painters</a></li></ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="/about-us/">About Us</a></li>
+          <li><a href="/gallery/">Gallery</a></li>
+          <li><a href="/contact-us/">Contact Us</a></li>
+          <li><a href="https://apps.homeupgraders.ca/" rel="noopener">HomeUpgraders Apps (free tools)</a></li>
+          <li><a href="https://maps.app.goo.gl/fmxb8SYQsozFs4ut7" rel="noopener">Find us on Google Maps</a></li>
+          <li><a href="https://www.facebook.com/ottawahomeupgraders" rel="noopener">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; Home Upgraders 2026 &middot; Orleans, Ontario</span>
+      <span>All rights reserved</span>
+    </div>
+  </div>
+</footer>
+<script>
+(function(){var t=document.querySelector('.menu-toggle'),n=document.getElementById('primary-nav');if(!t||!n)return;
+function set(o){n.classList.toggle('open',o);t.setAttribute('aria-expanded',String(o));t.textContent=o?'Close':'Menu';document.body.classList.toggle('nav-open',o);}
+t.addEventListener('click',function(){set(!n.classList.contains('open'));});
+n.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(e){if(a.parentNode.classList.contains('has-sub')&&window.innerWidth<=880&&!a.parentNode.classList.contains('sub-open'))return;set(false);});});
+window.addEventListener('resize',function(){if(window.innerWidth>880)set(false);});
+document.querySelectorAll('.has-sub > a').forEach(function(a){a.addEventListener('click',function(e){if(window.innerWidth<=880&&!a.parentNode.classList.contains('sub-open')){e.preventDefault();a.parentNode.classList.add('sub-open');}});});
+})();
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+<script>
+(function(){
+  var map = L.map('gallery-map', { scrollWheelZoom: false }).setView([45.42, -75.60], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  var clusterGroup = L.markerClusterGroup({ maxClusterRadius: 50 });
+  map.addLayer(clusterGroup);
+
+  var allPhotos = [];
+  var markersById = {};
+  var categoryLabels = {
+    bathroom: 'Bathroom', basement: 'Basement', kitchen: 'Kitchen',
+    carpentry: 'Carpentry', drywall: 'Drywall', flooring: 'Flooring',
+    painting: 'Painting', tile: 'Tile', commercial: 'Commercial',
+    general_renovation: 'General'
+  };
+
+  var countEl = document.getElementById('gallery-count');
+  var gridEl = document.getElementById('gallery-grid');
+  var mapEl = document.getElementById('gallery-map');
+  var currentFilter = 'all';
+
+  function popupHtml(p){
+    return '<div>' +
+      '<img src="' + p.image + '" alt="' + (p.caption || '') + '" loading="lazy">' +
+      '<div class="cap">' + (p.caption || '') + (p.neighborhood ? ' &middot; ' + p.neighborhood : '') + '</div>' +
+      '<span class="view-in-grid" data-photo-id="' + p.id + '">View in gallery below \u2193</span>' +
+      '</div>';
+  }
+
+  function scrollToGridItem(id){
+    var fig = document.getElementById('photo-' + id);
+    if (!fig) return;
+    document.querySelectorAll('.gallery-grid-view figure.highlighted').forEach(function(f){ f.classList.remove('highlighted'); });
+    fig.classList.add('highlighted');
+    fig.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(function(){ fig.classList.remove('highlighted'); }, 2500);
+  }
+
+  function focusMarkerOnMap(id){
+    var marker = markersById[id];
+    if (!marker) return;
+    mapEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    if (clusterGroup.hasLayer(marker)) {
+      clusterGroup.zoomToShowLayer(marker, function(){ marker.openPopup(); });
+    }
+  }
+
+  function render(){
+    var visible = allPhotos.filter(function(p){
+      return currentFilter === 'all' || (p.category || 'general_renovation') === currentFilter;
+    });
+    countEl.textContent = visible.length + (visible.length === 1 ? ' photo' : ' photos') +
+      (currentFilter === 'all' ? '' : ' in ' + (categoryLabels[currentFilter] || currentFilter));
+
+    // Map: rebuild cluster group with only the filtered markers
+    clusterGroup.clearLayers();
+    allPhotos.forEach(function(p){
+      var m = markersById[p.id];
+      if (m && (currentFilter === 'all' || m.category === currentFilter)) clusterGroup.addLayer(m);
+    });
+
+    // Grid: rebuild thumbnails for the filtered set, each linked back to its map marker
+    gridEl.innerHTML = '';
+    visible.forEach(function(p){
+      var fig = document.createElement('figure');
+      fig.id = 'photo-' + p.id;
+      var img = document.createElement('img');
+      img.src = p.image; img.loading = 'lazy'; img.alt = p.caption || '';
+      var cap = document.createElement('figcaption');
+      cap.textContent = (p.caption || '') + (p.neighborhood ? ' \u00b7 ' + p.neighborhood : '');
+      fig.appendChild(img); fig.appendChild(cap);
+      fig.addEventListener('click', function(){ focusMarkerOnMap(p.id); });
+      gridEl.appendChild(fig);
+    });
+  }
+
+  fetch('photos.json')
+    .then(function(r){ return r.json(); })
+    .then(function(photos){
+      allPhotos = photos;
+      var seen = {};
+      photos.forEach(function(p){
+        if (!Number.isFinite(p.map_lat) || !Number.isFinite(p.map_lng)) {
+          seen[p.category || 'general_renovation'] = true;
+          return;
+        }
+        var marker = L.marker([p.map_lat, p.map_lng]);
+        marker.bindPopup(popupHtml(p));
+        marker.category = p.category || 'general_renovation';
+        marker.on('popupopen', function(e){
+          var el = e.popup.getElement().querySelector('.view-in-grid');
+          if (el) el.addEventListener('click', function(){ scrollToGridItem(el.dataset.photoId); }, { once: true });
+        });
+        markersById[p.id] = marker;
+        seen[marker.category] = true;
+      });
+
+      var filterBar = document.getElementById('gallery-filters');
+      Object.keys(seen).sort().forEach(function(cat){
+        var btn = document.createElement('button');
+        btn.dataset.filter = cat;
+        btn.textContent = categoryLabels[cat] || cat;
+        filterBar.appendChild(btn);
+      });
+
+      filterBar.addEventListener('click', function(e){
+        if (e.target.tagName !== 'BUTTON') return;
+        currentFilter = e.target.dataset.filter;
+        filterBar.querySelectorAll('button').forEach(function(b){ b.classList.toggle('active', b === e.target); });
+        render();
+      });
+
+      // Deep-link support: /gallery/?category=bathroom pre-selects that filter,
+      // so service pages can link straight to their relevant photos.
+      var requestedCategory = new URLSearchParams(window.location.search).get('category');
+      if (requestedCategory && seen[requestedCategory]) {
+        currentFilter = requestedCategory;
+        filterBar.querySelectorAll('button').forEach(function(b){
+          b.classList.toggle('active', b.dataset.filter === requestedCategory);
+        });
+      }
+
+      render();
+    })
+    .catch(function(err){
+      countEl.textContent = '';
+      mapEl.innerHTML =
+        '<p class="gallery-note">Gallery photos are being updated -- please check back shortly.</p>';
+      console.error('Gallery load error:', err);
+    });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www\.homeupgraders\.ca$ [NC]
+RewriteRule ^(.*)$ https://homeupgraders.ca/$1 [L,R=301]
+
+Redirect 301 /drywall-contractor-ottawa https://homeupgraders.ca/services/drywall-contractor-ottawa/
+Redirect 301 /ottawa-paint-contractor https://homeupgraders.ca/services/ottawa-house-painters/

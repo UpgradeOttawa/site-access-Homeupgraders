@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /builder-os/
+Disallow: /master-hub/
+Sitemap: https://homeupgraders.ca/sitemap.xml
